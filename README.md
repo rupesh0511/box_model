@@ -6,4 +6,4 @@ hosted link- https://rupesh0511.github.io/box_model/
 we have basicaaly used header tag for writing the heading,
 snd also use p tag to write the content those are given within the box,
 we have also used div tag and gave it a border to make it like a box.
-And by mistake i forgot to remove the blue border that i have given to <div class="last"> tag.
+And by mistake i forgot to remove the blue border that i have given to last div tag.
